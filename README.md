@@ -15,10 +15,11 @@ DT Money é uma aplicação para controle de gastos financeiros. É possível ca
     As seguintes tecnologias foram usadas no desenvolvimento dessa aplicação:
     <ul>
       <li><a href="https://pt-br.reactjs.org/">ReactJS</a></li>
+      <li><a href="https://pt-br.reactjs.org/docs/hooks-intro/">React Hooks</a></li>
       <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
       <li><a href="https://styled-components.com/">Styled components</a></li>
       <li><a href="https://miragejs.com/">Mirage.js</a></li>
-      <li><a href="https://www.npmjs.com/package/axios/">Axios</a></li>
+      <li><a href="https://www.npmjs.com/package/axios/">Axios</a></li> 
     </ul>
   </p>
 
